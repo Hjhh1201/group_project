@@ -48,7 +48,38 @@ Follow these steps to install Quantum Arkanoid on your computer:
 
 - Visual Effects: Quantum states are visualized on the ball and bricks using dynamic textures and materials that illustrate the qubit's orientation on the Bloch sphere. 
 
-  ​
+  ![Bloch Ball](./images/ball.png)
 
 ### Power-Ups
 
+- Paddle Length Increase: This power-up extends the paddle's length, making it easier to hit the ball. 
+
+
+- Ball Speed: Increase the ball speed
+
+  ![power-ups](./images/power-up.png)
+
+
+
+## Navigating Game Levels
+
+- Level 1: No magnetic field. Learn the basic mechanics. 
+
+
+- Level 2: Magnetic field in effect. The ball’s trajectory changes dynamically. 
+
+  ![game](./images/game.png)
+
+## FAQs
+
+1. How do I advance to the next level? 
+
+​         Please try to destroy all bricks in current level to progress. You can also switch the level by pressing 'H'.
+
+2. Can I save my game progress? 
+
+​          Currently, the game does not support progress saving. 
+
+   3.How does my data get protected? 
+
+​          We do not store or gather any personal data. Your privacy is protected. 
