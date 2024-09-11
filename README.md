@@ -24,7 +24,7 @@ Prepare to embark on a journey filled with intriguing quantum phenomena—some f
 
 Follow these steps to install Quantum Arkanoid on your computer: 
 
-1. Download the game files from [here](https://drive.google.com/file/d/1zT3EM_Z-QN7sBUAOtlUgAKl6VsyAs88h/view?usp=drive_link). 
+1. Download the game zip file from [here](https://drive.google.com/file/d/1zT3EM_Z-QN7sBUAOtlUgAKl6VsyAs88h/view?usp=drive_link) (Google drive link).
 2. Unzip files to places you like. 
 3. Double click QuantumArknoid.exe and just enjoy! 
 
