@@ -28,4 +28,27 @@ Follow these steps to install Quantum Arkanoid on your computer:
 2. Unzip files to places you like. 
 3. Double click QuantumArknoid.exe and just enjoy! 
 
- 
+
+## Controls
+
+- Movement of paddle: WASD, Arrow keys or simply moving Mouse left and right are all supported 
+
+
+- Launch the ball: Pressing Space Bar or Mouse Right Button to initiate the game 
+
+
+- Quit: Just directly closing the window! 
+
+## Gameplay Mechanics
+
+### Quantum Features
+
+- Quantum States: Bricks and the ball have unique quantum states represented visually. The ball's quantum state changes due to a magnetic field affecting its trajectory. 
+
+
+- Visual Effects: Quantum states are visualized on the ball and bricks using dynamic textures and materials that illustrate the qubit's orientation on the Bloch sphere. 
+
+  ​
+
+### Power-Ups
+
